@@ -1,0 +1,342 @@
+#EXTM3U 
+#EXTINF:-1 tvg-name="TNN16" tvg-logo="https://madoball.com/upload/6345.jpg" group-title="📺DigitalTV📺",TNN16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
+
+#EXTINF:-1 tvg-name="Nation22" tvg-logo="https://madoball.com/upload/6339.jpg" group-title="📺DigitalTV📺",Nation22
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
+
+#EXTINF:-1 tvg-name="PPTV1" tvg-logo="https://madoball.com/upload/1664.jpg" group-title="📺DigitalTV📺",@PPTV HD
+http://s3.e-cdn.me:80/Bengamenbukinafaso2026/msvrpi45e1/1776142
+
+#EXTINF:-1 tvg-name="TOPNEW" tvg-logo="https://i.postimg.cc/TwwQXPFc/TOPNEW.jpg" group-title="📺DigitalTV📺",TOPNEW
+https://live.topnews.co.th/hls/mobile_v1.m3u8
+#EXTINF:-1 tvg-name="NEW1" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="📺DigitalTV📺",NEW1
+https://server1.streamssl.com/stream/news1_mid.m3u8
+
+#EXTINF:-1 tvg-name="AmarinTV" tvg-logo="https://madoball.com/upload/6328.jpg" group-title="📺DigitalTV📺",AmarinTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+#EXTINF:-1 tvg-name="Thairath TV" tvg-logo="https://madoball.com/upload/6330.jpg" group-title="📺DigitalTV📺",@Thairath TV
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-name="Thairath TV" tvg-logo="https://madoball.com/upload/6330.jpg" group-title="📺DigitalTV📺",Thairath TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-name="True4U" tvg-logo="https://madoball.com/upload/6337.jpg" group-title="📺DigitalTV📺",True24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+
+#EXTINF:-1 tvg-name="GMM 25" tvg-logo="https://madoball.com/upload/6336.jpg" group-title="📺DigitalTV📺",GMM 25
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+
+#EXTINF:-1 tvg-name="ONE31" tvg-logo="https://madoball.com/upload/461.jpg" group-title="📺DigitalTV📺",ONE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+#EXTINF:-1 group-title="️📺DigitalTV📺" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.webp",TSPORTS 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:xinputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+
+#EXTINF:-1 tvg-name="Mono 29" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="📺DigitalTV📺",@Mono 29
+https://monomax-uiripn.cdn.byteark.com/plain/st/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Mono 29" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="📺DigitalTV📺",Mono 29
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 tvg-name="CH 8" tvg-logo="https://img1.pic.in.th/images/8ch.jpg" group-title="📺DigitalTV📺",CH 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
+
+#EXTINF:-1 tvg-name="Workpoint" tvg-logo="https://madoball.com/upload/6335.jpg" group-title="📺DigitalTV📺",Workpoint
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+
+#EXTINF:-1 tvg-name="CH3" tvg-logo="https://madoball.com/upload/7348.jpg" group-title="📺DigitalTV📺",CH3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+#EXTINF:-1 tvg-name="TV5" tvg-logo="https://madoball.com/upload/7347.jpg" group-title="📺DigitalTV📺",TV5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
+#EXTINF:-1 group-title="📺DigitalTV📺" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png" , CH7 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
+#EXTINF:-1 tvg-name="NBT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/NBT_2025.svg/250px-NBT_2025.svg.png" group-title="📺DigitalTV📺",NBT
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/NBT2_HD.png",NBT HD
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png",THAI PBS HD
+https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon//ch5new.logo.png",CH5 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2022/02/10/e00c0e00-8a3c-11ec-8f9e-831d2ccecc69_webp_original.webp",TSPORTS 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:xinputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/TPTV_2025.png",TPTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5da46688fd1e4ed5b085a12519b9dc4e:fd07bcf33823447180f53f6540f74ccb
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/10/10.mpd
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/NBT_Central_2025.png",NBT ภาคกลาง
+https://cdn-edge.iiptvcdn.com/live_event/smil:6ee0-5126-0cee-7ba2-18b7.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/NBT_North_2025.png",NBT ภาคเหนือ
+https://cdn-edge.iiptvcdn.com/live_event/smil:4f6e-aa34-2034-5492-c82d.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/NBT_Northeast_2025.png",NBT ภาคอีสาน
+https://cdn-edge.iiptvcdn.com/live_event/smil:98ff-027d-46aa-1a6a-8480.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/NBT_South_2025.png",NBT ภาคใต้
+https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/TNN16.png",TNN16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png",Nation TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/hd-workpoint.png",Workpoint
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://cms.dmpcdn.com/livetv/2023/09/15/84504210-5377-11ee-aaa1-7d584d8ca7a4_webp_original.webp",TRUE4U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/25.png",GMM 25
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/27.png",CH8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png",Mono 29
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/30.png",MCOT HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png",ONE31 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png",Thairath TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://raw.githubusercontent.com/zaxacaasada/logotv/refs/heads/main/hd-ch3.png",CH3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://ch3plus.com/
+https://ch3-33-web.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png",AmarinTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/35.png",CH7 HD
+https://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="️Digital TV" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0022.png",PPTV HD
+#EXTVLCOPT:http-referrer=https://github.com/
+#https://github.com/zaxacaasada/logotv/raw/refs/heads/main/pptv.m3u8
+#https://love.watipej760.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8
+https://lb-gmmz.sky-cdn.com/gmm/pptv.m3u8
+
+#EXTINF:-1 tvg-id="iptv36.tv5" tvg-name="CH 5" tvg-logo="http://103.114.203.129:8080/images/755d01f38f70630aefecc2b5c20a6eca.jpg" group-title="ไทยดิจิตอล ทีวี ",CH 5
+http://103.114.203.129:8080/toom/12345/56
+#EXTINF:-1 tvg-id="iptv36.nbt" tvg-name="NBT HD" tvg-logo="http://103.114.203.129:8080/images/b7b71ac60c92ece8fd2d5a079ef7e448.jpg" group-title="ไทยดิจิตอล ทีวี ",NBT HD
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_b3128000.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-name="Thai PBS 3" tvg-logo="http://103.114.203.129:8080/images/35a16111cd710c6baf71d46e1be2e7b4.jpg" group-title="ไทยดิจิตอล ทีวี ",Thai PBS 3
+http://103.114.203.129:8080/toom/12345/3
+#EXTINF:-1 tvg-id="iptv36.tsports" tvg-name="T Sport 7" tvg-logo="http://103.114.203.129:8080/images/f565bd2c505a5da1ebdf70768de80f84.jpg" group-title="ไทยดิจิตอล ทีวี ",T Sport 7
+http://103.114.203.129:8080/toom/12345/7
+#EXTINF:-1 tvg-id="2311" tvg-name="TPTV" tvg-logo="http://103.114.203.129:8080/images/0efb92ce1430774cc04303cc8e1bfbe1.jpg" group-title="ไทยดิจิตอล ทีวี ",TPTV
+http://103.114.203.129:8080/toom/12345/10
+#EXTINF:-1 tvg-id="TNN24.th" tvg-name="TNN 16" tvg-logo="http://103.114.203.129:8080/images/83993e38fec55aef5d402655030977b7.jpg" group-title="ไทยดิจิตอล ทีวี ",TNN 16
+http://103.114.203.129:8080/toom/12345/18892
+#EXTINF:-1 tvg-id="Nation.TV.th" tvg-name="Nation TV" tvg-logo="http://103.114.203.129:8080/images/27892b630ff112c10c6759d5ae57f4a0.jpg" group-title="ไทยดิจิตอล ทีวี ",Nation TV
+http://103.114.203.129:8080/toom/12345/22
+#EXTINF:-1 tvg-id="iptv36.workpoint" tvg-name="เวิร์คพอยท์23" tvg-logo="http://103.114.203.129:8080/images/486c7b01fa492c733ffb3cc138fa746b.jpg" group-title="ไทยดิจิตอล ทีวี ",เวิร์คพอยท์23
+http://103.114.203.129:8080/toom/12345/23
+#EXTINF:-1 tvg-id="iptv36.true4u" tvg-name="TRUE4U" tvg-logo="http://103.114.203.129:8080/images/efc4559e30ae761ee75b7414cf73fefc.jpg" group-title="ไทยดิจิตอล ทีวี ",TRUE4U
+http://103.114.203.129:8080/toom/12345/24
+#EXTINF:-1 tvg-id="iptv36.gmm25" tvg-name="GMM 25" tvg-logo="http://103.114.203.129:8080/images/89a5d33eb049876824fa3ef95b837b7c.jpg" group-title="ไทยดิจิตอล ทีวี ",GMM 25
+http://103.114.203.129:8080/toom/12345/25
+#EXTINF:-1 tvg-id="iptv36.ch8" tvg-name="THAI CH8" tvg-logo="http://103.114.203.129:8080/images/9569e00abeac8361a4b2563072f13a77.jpg" group-title="ไทยดิจิตอล ทีวี ",THAI CH8
+http://103.114.203.129:8080/toom/12345/27
+#EXTINF:-1 tvg-id="iptv36.mono29" tvg-name="Monomax Sports TV" tvg-logo="http://103.114.203.129:8080/images/06be2bc763a2c58ffa1aead5b7128812.jpg" group-title="ไทยดิจิตอล ทีวี ",Monomax Sports TV
+http://103.114.203.129:8080/toom/12345/29
+#EXTINF:-1 tvg-id="MCOT.HD.th" tvg-name="MCOT HD" tvg-logo="http://103.114.203.129:8080/images/e41e94f2baa1f3c5d2f9eda768452c9f.jpg" group-title="ไทยดิจิตอล ทีวี ",MCOT HD
+http://103.114.203.129:8080/toom/12345/30
+#EXTINF:-1 tvg-id="ONE31.HD.th" tvg-name="ONE31 FHD" tvg-logo="http://103.114.203.129:8080/images/859b06680f927c84e120424e78aaab51.jpg" group-title="ไทยดิจิตอล ทีวี ",ONE31 FHD
+http://103.114.203.129:8080/toom/12345/31
+#EXTINF:-1 tvg-id="iptv36.thairath" tvg-name="THAIRATH 32" tvg-logo="http://103.114.203.129:8080/images/c6aa3fec31946a704e1c60a747b001b0.jpg" group-title="ไทยดิจิตอล ทีวี ",THAIRATH 32
+http://103.114.203.129:8080/toom/12345/17578
+#EXTINF:-1 tvg-id="3HD.th" tvg-name="CH 3 FHD" tvg-logo="http://103.114.203.129:8080/images/99b32e66072133462e270ea7f2326b03.jpg" group-title="ไทยดิจิตอล ทีวี ",CH 3 FHD
+http://103.114.203.129:8080/toom/12345/33
+
+#EXTINF:-1 tvg-id="iptv36.ch7" tvg-name="AMARIN-TV" tvg-logo="http://103.114.203.129:8080/images/1e639d05ba46ba718171529bd4dec854.jpg" group-title="ไทยดิจิตอล ทีวี ",AMARIN-TV
+http://103.114.203.129:8080/toom/12345/34
+#EXTINF:-1 tvg-id="iptv36.ch7" tvg-name="CH7 FHD" tvg-logo="http://103.114.203.129:8080/images/d2112b7062c74ef32a9c29ccf4bd979b.jpg" group-title="ไทยดิจิตอล ทีวี ",CH7 FHD
+http://103.114.203.129:8080/toom/12345/35
+#EXTINF:-1 tvg-id="PPTV.th" tvg-name="PPTVHD 36 " tvg-logo="http://103.114.203.129:8080/images/e647a10324280031fa9d8d1c5f2f176e.jpg" group-title="ไทยดิจิตอล ทีวี ",PPTVHD 36 
+http://103.114.203.129:8080/toom/12345/36
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/LOGO3HD.PNG" group-title="ช่องทีวีดิจิตอล", CH3HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d76aea451d441a4913d4d70c4e586ab:051027a6ff54494b949ba792928e9008
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/33/33.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png" group-title="ช่องทีวีดิจิตอล", CH5FHD 
+https://lb-gmmz.sky-cdn.com/gmm/ch5.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0018.png" group-title="ช่องทีวีดิจิตอล", CH7HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d4426a505f64382a9841155d721cee6:0f4770219ccb4be5836a7517057e51c3
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/35/35.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="ช่องทีวีดิจิตอล", MCOTHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/NBT2_HD_2025.svg/181px-NBT2_HD_2025.svg.png" group-title="ช่องทีวีดิจิตอล", NBTHD
+#EXTVLCOPT:http-referrer=https://cdn-edge.iiptvcdn.com
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w884800294_b3128000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0014.png" group-title="ช่องทีวีดิจิตอล", ThaiPBSHD
+https://thaipbs-ophctt.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R2_0053.png" group-title="ช่องทีวีดิจิตอล", TNN16
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ebedc957e934d2b9023e4e60b97af73:7bcb4363df74457bbafedec1a864e6b6
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/22_Nation_2025.png" group-title="ช่องทีวีดิจิตอล", NationTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="ช่องทีวีดิจิตอล", True4U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="ช่องทีวีดิจิตอล", ThairathTVHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="ช่องทีวีดิจิตอล", AmarinTVHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/PPTV_2024e.jpg" group-title="ช่องทีวีดิจิตอล", PPTVHD
+https://lb-gmmz.sky-cdn.com/gmm/pptv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="ช่องทีวีดิจิตอล", GMM25
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/29_MonomaxSports.png" group-title="ช่องทีวีดิจิตอล", MONO29
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="ช่องทีวีดิจิตอล", ONE31HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0015_R.png" group-title="ช่องทีวีดิจิตอล", WorkpointTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/TOPNEWS.PNG" group-title="ช่องทีวีดิจิตอล", TopNews
+http://live.topnews.co.th/hls/topnews_a_FHD1080.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png" group-title="ช่องทีวีดิจิตอล", News1
+http://server1.streamssl.com/stream/news1_mid.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//Mono29Plus_new.png" group-title="ช่องทีวีดิจิตอล", MonoPlusHD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=072eeb02f6744f838fcc8f0ef36b312e:b797c12f2dd64728aae23fd3c8ef275c
+https://cco-streamer1.cdn.3bbtv.com:8443/3bb/live/109/109.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0006.png" group-title="ช่องทีวีดิจิตอล", CH8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
+https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://13livetv.com/asset/logo-512.png" group-title="ช่องทีวีดิจิตอล", 13สยามไท
+https://live.x2.co.th/live/13livetv-th_720p/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="https://www.lyngsat.com/logo/tv/ss/suwannabhumi_tv.png" group-title="ช่องทีวีดิจิตอล", สุวรรณภูมิทีวี
+http://live.bangkokstream.com:19370/suwannabhumi/suwannabhumi.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://policetv.tv/wp-content/uploads/elementor/thumbs/cropped-LOGO-POLICE-2019_512-qvss6q704vu39pig4g3aipjuvm1nbvj9ewxq7olxv4.png" group-title="ช่องทีวีดิจิตอล", PoliceTV
+http://54c241893bf39.streamlock.net:1935/policetv/policetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/T-SPorts_7_Final.png"group-title="ช่องทีวีดิจิตอล", T-SPorts7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6187523f92b9475bb5b192f70cef1342:5119311f482144d58dacabc5bc1fa4ba
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/7/7.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png" group-title="ช่องทีวีดิจิตอล", TPTVHD
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8
